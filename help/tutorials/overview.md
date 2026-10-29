@@ -1,29 +1,37 @@
 ---
-title: Mix Modelerのビデオとチュートリアル
-description: Adobe Mix Modeler のビデオとチュートリアルのコレクションです。
+title: Marketing Campaign Analyticsのビデオとチュートリアル
+description: Adobe Marketing Campaign Analyticsのビデオとチュートリアルのコレクション。
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-TQID: https://experienceleague.adobe.com/FWQ4ob4bYY75UfFmRFj7q-P5zX6k7d8jH5BV6C76HEU
+TQID: 'https://experienceleague.adobe.com/u-cvOylzy9JlmaXEA6Blw4fr-WfpKrmJB7oK70Lp3AY'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
+    internal-label: Marketing Campaign Analytics
 feature_v2:
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
+    internal-label: Models
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 1173a14c0dbe6b418918a687a9216a8cb2c7c24f
+    internal-label: Machine learning
+source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 12%
-
+source-wordcount: '184'
+ht-degree: 1%
 ---
+# Marketing Campaign Analytics Tutorials
 
-# Mix Modeler チュートリアル
+>[!BEGINSHADEBOX]
 
-これらのビデオとチュートリアルからAdobe Mix Modelerについて説明します。
+**Adobe Marketing Campaign Analytics**&#x200B;は、**Adobe Marketing Campaign Analytics**&#x200B;の進化とリブランディングです。 Experience Leagueの一部のコンテンツは、Marketing Campaign AnalyticsではなくMix Modelerを引き続き参照する場合があります。
 
-Adobe Mix Modelerは、マシンラーニングモデルを適用し、マーケティングへの投資が主要なビジネス目標に与えた効果を過去および将来にわたって明らかにすることで、企業がマーケティングへの投資を測定、最適化、計画するのを支援します。
+>[!ENDSHADEBOX]
+
+これらのビデオとチュートリアルからAdobe Marketing Campaign Analyticsについて説明します。
+
+Adobe Marketing Campaign Analyticsは、マシンラーニングモデルを適用し、マーケティングへの投資が主要なビジネス目標に与えた効果を過去および将来にわたって明らかにすることで、企業がマーケティングへの投資を測定、最適化、計画するのを支援します。
 
 
 <div id="recs-overview-body-1"></div>
@@ -40,7 +48,7 @@ Adobe Mix Modelerは、マシンラーニングモデルを適用し、マーケ
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="「エンドツーエンドのデモ」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3440795?captions=jpn&format=jpeg" />
+      <img alt="「エンドツーエンドのデモ」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -48,12 +56,12 @@ Adobe Mix Modelerは、マシンラーニングモデルを適用し、マーケ
     </a>
     </div>
     <p>
-    <em>Adobe Mix Modelerのエンドツーエンドのデモを見る</em>
+    <em>Adobe Marketing Campaign Analyticsのエンドツーエンドのデモを見る</em>
     <p>
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="「ユーザーインターフェイスツアー」ビデオのサムネイル画像" src="https://video.tv.adobe.com/v/3452383?captions=jpn&format=jpeg" />
+      <img alt="「ユーザーインターフェイスツアー」ビデオのサムネイル画像" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -61,12 +69,12 @@ Adobe Mix Modelerは、マシンラーニングモデルを適用し、マーケ
     </a>
     </div>
     <p>
-    <em>Adobe Mix Modelerの主要なユーザーインターフェイスコンポーネントについて説明します</em>
+    <em>Adobe Marketing Campaign Analyticsの主要なユーザーインターフェイスコンポーネントについて説明します</em>
     <p>
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="「ユーザーワークフロー」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3440204?captions=jpn&format=jpeg" />
+      <img alt="「ユーザーワークフロー」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
@@ -74,7 +82,7 @@ Adobe Mix Modelerは、マシンラーニングモデルを適用し、マーケ
     </a>
     </div>
     <p>
-    <em>Adobe Mix Modelerのユーザーワークフローについて説明します</em>
+    <em>Adobe Marketing Campaign Analyticsのユーザーワークフローについて説明します</em>
     <p>
   </td>
 </tr>

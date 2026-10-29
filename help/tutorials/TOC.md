@@ -1,25 +1,23 @@
 ---
-user-guide-title: Mix Modeler チュートリアル
-breadcrumb-title: Mix Modeler チュートリアル
-user-guide-description: Adobe Mix Modeler のビデオとチュートリアルのコレクションです。
+user-guide-title: Marketing Campaign Analytics Tutorials
+breadcrumb-title: Marketing Campaign Analytics Tutorials
+user-guide-description: Adobe Marketing Campaign Analyticsのビデオとチュートリアルのコレクション。
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: e037e5e4219dab3d80a0d2c50f6e814ea5e2b91a
+source-git-commit: 86c8d3b8ccdeb5bf0c3d8c4c4ba0a000060a2206
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 48%
-
+source-wordcount: '49'
+ht-degree: 2%
 ---
 
+# Adobe Marketing Campaign Analytics Tutorials {#tutorials}
 
-# Adobe Mix Modeler チュートリアル {#tutorials}
-
-+ [Mix Modeler チュートリアル](/help/tutorials/overview.md)
-+ Mix Modelerについて {#intro}
-   + [ユーザーワークフロー](/help/tutorials/intro/user-workflow.md)
-   + [エンドツーエンドのデモ](/help/tutorials/intro/demo.md)
-   + [ユーザーインターフェイスツアー](/help/tutorials/intro/user-interface-tour.md)
++ [Marketing Campaign Analytics Tutorials](/help/tutorials/overview.md)
++ Marketing Campaign Analyticsの概要 {#intro}
+  + [ユーザーワークフロー](/help/tutorials/intro/user-workflow.md)
+  + [エンドツーエンドのデモ](/help/tutorials/intro/demo.md)
+  + [ユーザーインターフェイスツアー](/help/tutorials/intro/user-interface-tour.md)
 + 機能 {#features}
-   + [目標ベースの計画](/help/tutorials/features/goal-based-planning.md)
-   + [モデルドリフト検出](/help/tutorials/features/model-drift-detection.md)
+  + [目標ベースのプランニング](/help/tutorials/features/goal-based-planning.md)
+  + [モデルドリフト検出](/help/tutorials/features/model-drift-detection.md)
