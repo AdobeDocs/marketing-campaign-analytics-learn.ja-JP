@@ -66,4 +66,4 @@ ht-degree: 0%
 
 Marketing Campaign Analyticsの主な機能をユーザーインターフェイスで確認できます。 詳しくは、[Adobe Marketing Campaign Analytics ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/get-started/workflow)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452383?captions=jpn&learn=on&enablevpops)

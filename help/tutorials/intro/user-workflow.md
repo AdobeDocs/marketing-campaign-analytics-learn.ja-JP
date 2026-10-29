@@ -49,4 +49,4 @@ ht-degree: 0%
 
 Marketing Campaign Analyticsのワークフロー。 詳しくは、[Marketing Campaign Analytics ワークフロー](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/get-started/workflow)のドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440204?captions=jpn&learn=on&enablevpops)
