@@ -38,6 +38,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Marketing Campaign Analyticsの目標ベースのプランニング機能では、予算だけでなくビジネス目標も考慮してプランニングできます。 ROIを最大化しながら目標を達成するために、チャネルやキャンペーンをまたいで自信を持って効率的に予算を割り当てることができます。 詳しくは、Marketing Campaign Analytics ドキュメントの[ プラン ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"}を参照してください。
+Marketing Campaign Analyticsの目標ベースのプランニング機能では、予算だけでなくビジネス目標も考慮してプランニングできます。 ROIを最大化しながら目標を達成するために、チャネルやキャンペーンをまたいで自信を持って効率的に予算を割り当てることができます。 詳しくは、Marketing Campaign Analytics ドキュメントの[&#x200B; プラン &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"}を参照してください。
 
 >[!SLIDE](goal-based-planning)

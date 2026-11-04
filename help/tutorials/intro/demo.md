@@ -68,6 +68,6 @@ ht-degree: 9%
 
 >[!ENDSHADEBOX]
 
-Adobe Marketing Campaign Analyticsの詳細なデモをご覧ください。 詳しくは、[Marketing Campaign Analyticsのドキュメント ](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/overview)を参照してください。
+Adobe Marketing Campaign Analyticsの詳細なデモをご覧ください。 詳しくは、[Marketing Campaign Analyticsのドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/overview)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)

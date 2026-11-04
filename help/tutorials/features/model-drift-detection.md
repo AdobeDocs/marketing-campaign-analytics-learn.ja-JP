@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Marketing Campaign Analyticsのモデルドリフト検出機能では、モデルパフォーマンスの変化が自動的に検出され、ユーザーに通知されます。 モデルを最適なパフォーマンスに戻すために、すぐにアクションを起こすことができます。 詳しくは、Marketing Campaign Analytics ドキュメントの[ モデルドリフト ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}を参照してください。
+Marketing Campaign Analyticsのモデルドリフト検出機能では、モデルパフォーマンスの変化が自動的に検出され、ユーザーに通知されます。 モデルを最適なパフォーマンスに戻すために、すぐにアクションを起こすことができます。 詳しくは、Marketing Campaign Analytics ドキュメントの[&#x200B; モデルドリフト &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}を参照してください。
 
 >[!SLIDE](model-drift-detection)
