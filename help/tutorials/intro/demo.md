@@ -55,16 +55,16 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 9%
 ---
 # Marketing Campaign Analyticsのエンドツーエンドのデモ
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;は、**Adobe Marketing Campaign Analytics**&#x200B;の進化とリブランディングです。 Experience Leagueの一部のコンテンツは、Marketing Campaign AnalyticsではなくMix Modelerを引き続き参照する場合があります。
+**Adobe Marketing Campaign Analytics**&#x200B;は、**Adobe Mix Modeler**&#x200B;の進化とリブランディングです。 Experience Leagueの一部のコンテンツは、Marketing Campaign AnalyticsではなくMix Modelerを引き続き参照する場合があります。
 
 >[!ENDSHADEBOX]
 

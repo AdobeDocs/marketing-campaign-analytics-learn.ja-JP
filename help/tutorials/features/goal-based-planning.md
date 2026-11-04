@@ -25,16 +25,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 ---
 # 目標ベースのプランニング
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;は、**Adobe Marketing Campaign Analytics**&#x200B;の進化とリブランディングです。 Experience Leagueの一部のコンテンツは、Marketing Campaign AnalyticsではなくMix Modelerを引き続き参照する場合があります。
+**Adobe Marketing Campaign Analytics**&#x200B;は、**Adobe Mix Modeler**&#x200B;の進化とリブランディングです。 Experience Leagueの一部のコンテンツは、Marketing Campaign AnalyticsではなくMix Modelerを引き続き参照する場合があります。
 
 >[!ENDSHADEBOX]
 
