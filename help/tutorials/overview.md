@@ -48,7 +48,7 @@ Adobe Marketing Campaign Analyticsは、マシンラーニングモデルを適�
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="「エンドツーエンドのデモ」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="「エンドツーエンドのデモ」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3440795?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -61,7 +61,7 @@ Adobe Marketing Campaign Analyticsは、マシンラーニングモデルを適�
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="「ユーザーインターフェイスツアー」ビデオのサムネイル画像" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="「ユーザーインターフェイスツアー」ビデオのサムネイル画像" src="https://video.tv.adobe.com/v/3452383?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -74,7 +74,7 @@ Adobe Marketing Campaign Analyticsは、マシンラーニングモデルを適�
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="「ユーザーワークフロー」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="「ユーザーワークフロー」チュートリアルのサムネイル画像" src="https://video.tv.adobe.com/v/3440204?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
